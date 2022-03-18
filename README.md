@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Nicole :) 
+
+Software Engineer (in the making) with experience using JavaScript, React, Ruby, and Ruby on Rails. I also hold a bachelors degree from New York University and a masters degree from Columbia University, and worked as a medical speech-language pathologist prior to delving into coding. I hope to blend these areas of study and collaborate with others to create accessible technology, particularly for individuals with brain injuries, their caregivers, and medical providers. 
+
+Happy to have you here :) 
 
 <!--
 **nccandiotti/nccandiotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
