@@ -7,9 +7,11 @@ When I'm not coding, I love street photography (currently using a FUJI XT2 📸)
 Happy to have you here :) 
 
 Featured Projects : 
-1. [JavaShop](https://github.com/nccandiotti/JavaScript-Dom-Manipulation-Project) - Pair programming project written in Vanilla JavaScript with a db-json - [demo video here](https://www.youtube.com/watch?v=NT9CAkm643w)
-2. Queen of Memes - a pair programming project written in JavaScript React with a fetch to a third party API and a db-json [demo video here](https://youtu.be/9qAre5FtZfs)
-3. BookShare [frontend](https://github.com/nccandiotti/sinatra-books-frontend-2) [backend](https://github.com/Juliag875/phase-3-sinatra-react-project) - pair programming project utilizing JavaScript React and a self generated RESTful API using Ruby Sinatra. Frontend made by me, backend made via pair programming. 
+
+- [Explore DC Museum Mapper](https://github.com/nccandiotti/museum-mapper) - fullstack e-commerce application utilizing JavaScript React, Ruby on Rails, MapBox, and Stripe payment authentication [demo video here](https://youtu.be/KuQ8JlcgEBU)
+- [JavaShop](https://github.com/nccandiotti/JavaScript-Dom-Manipulation-Project) - Pair programming project written in Vanilla JavaScript with a db-json - [demo video here](https://www.youtube.com/watch?v=NT9CAkm643w)
+- Queen of Memes - a pair programming project written in JavaScript React with a fetch to a third party API and a db-json [demo video here](https://youtu.be/9qAre5FtZfs)
+- BookShare [frontend](https://github.com/nccandiotti/sinatra-books-frontend-2) [backend](https://github.com/Juliag875/phase-3-sinatra-react-project) - pair programming project utilizing JavaScript React and a self generated RESTful API using Ruby Sinatra. Frontend made by me, backend made via pair programming. 
 
 
 <!--
