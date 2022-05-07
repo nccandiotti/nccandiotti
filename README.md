@@ -16,6 +16,15 @@ Featured Projects :
 - [BookShare](https://github.com/nccandiotti/sinatra-books-frontend-2) ([backend](https://github.com/Juliag875/phase-3-sinatra-react-project)) JavaScript React and a self generated RESTful API using Ruby Sinatra and SQLITE3  
 
 
+<div align='center'>
+
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nccandiotti&theme=dark"  width="48%" >
+</div>
+
+
+
+
 <!--
 **nccandiotti/nccandiotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
