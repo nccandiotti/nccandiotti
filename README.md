@@ -20,6 +20,9 @@ Featured Projects :
 
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nccandiotti&theme=dark"  width="48%" >
+  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nccandiotti&theme=dracula))](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
