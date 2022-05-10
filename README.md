@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Nicole!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nccandiotti&label=Profile%20views&color=red&style=flat" alt="views" /> </p>
 
 Fullstack web developer with experience using JavaScript, React, Ruby, and Ruby on Rails. I also hold a bachelors degree from New York University 💜 and a masters degree from Columbia University 👑 in Communication Sciences and Disorders 🗣 . Prior to delving into coding, I worked as a medical speech-language pathologist. I hope to blend these areas of study and collaborate with others to create accessible technology, particularly for individuals with brain injuries 🧠, their caregivers, and medical providers 🩺. 
 
