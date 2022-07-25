@@ -10,7 +10,7 @@ Happy to have you here :)
 
 Featured Projects : 
 
-- [The Blonde Boheme](https://github.com/nccandiotti/BlondeBoheme) - fullstack freelance application utilizing JavaScript React, MUI, Ruby on Rails, PostgresSQL, and Active Storage for image uploads. App includes admin/client login views and an appointment booking system with picture uploads - [demo video here](https://www.loom.com/share/e40b922fc7fa40bcbefa8d4c7c409f3d?sharedAppSource=personal_library)
+- [The Blonde Boheme](https://github.com/nccandiotti/BlondeBoheme) - fullstack application utilizing JavaScript React, MUI, Ruby on Rails, PostgresSQL, and Active Storage for image uploads. App includes admin/client login views and an appointment booking system with picture uploads - [demo video here](https://www.loom.com/share/e40b922fc7fa40bcbefa8d4c7c409f3d?sharedAppSource=personal_library)
 
 - [Explore DC Museum Mapper](https://github.com/nccandiotti/museum-mapper) - fullstack e-commerce application utilizing JavaScript React, Ruby on Rails, MapBox, and Stripe payment authentication - [demo video here](https://www.loom.com/share/113f901ac82f4742b1face0276535646)
 - [JavaShop](https://github.com/nccandiotti/JavaScript-Dom-Manipulation-Project) - Vanilla JavaScript application with a JSON server to handle CRUD functionality - [demo video here](https://www.loom.com/share/dcc3df61b8704998995f0dfb7e1a5b87)
