@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicole!
 
-Professionally, I'm a design systems engineer and frontend platform lead with 3+ years building, scaling, and governing enterprise-grade component libraries from the ground up and the dev lead on a design system @ Savvas Learning Company, serving 50 micro-frontends and 20+ teams, on a platform with 40M+ users. I architecting token infrastructure, component APIs, Figma-to-code parity, and contribution governance. 
+Professionally, I'm a design systems engineer and frontend platform lead with 3+ years building, scaling, and governing enterprise-grade component libraries from the ground up and the dev lead on a design system @ Savvas Learning Company, serving 50 micro-frontends and 20+ teams on a platform with 40M+ users. I architect token infrastructure, build component APIs, ensure Figma-to-code parity, and define contribution governance. 
 
 I'm also a proud CPACC-certified accessibility expert (WAS in progress) with a unique clinical background in speech-language pathology. I truly enjoy bridging the gap between Design and Engineering and working together to bring inclusive UI to life.
 
