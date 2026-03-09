@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Nicole!
 
+Professionally, I'm a design systems engineer and frontend platform lead with 3+ years building, scaling, and governing enterprise-grade component libraries from the ground up and the dev lead on a design system @ Savvas Learning Company, serving 50 micro-frontends and 20+ teams, on a platform with 40M+ users. I architecting token infrastructure, component APIs, Figma-to-code parity, and contribution governance. 
 
-Frontend developer with experience using JavaScript, Typescript, React, Angular, StencilJS, Storybook, AWS, and well versed  WCAG 2.1AA standards and criteria. I also hold a bachelors degree from New York University 💜 and a masters degree from Columbia University 👑 in Communication Sciences and Disorders 🗣 . Prior to software engineering, I worked as a medical speech-language pathologist. I hope to blend these areas of study and collaborate with others to create accessible technology, particularly for individuals with brain injuries 🧠, their caregivers, medical providers 🩺, and educators 📚. 
+I'm also a proud CPACC-certified accessibility expert (WAS in progress) with a unique clinical background in speech-language pathology. I truly enjoy bridging the gap between Design and Engineering and working together to bring inclusive UI to life.
+
+Personally, I'm working on building my own design system, Bloom 🌻 ! Excited to see where it goes ... or grows ! 
 
 Happy to have you here :) 
 
